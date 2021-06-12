@@ -108,7 +108,7 @@ function App() {
             </div>
           </form>
         </div>
-        <div className="col-12 mt-4 col-lg-8">
+        <div className="col-12 mt-3 mt-lg-0 col-lg-8">
           <h4 className="text-center">Lista de tareas</h4>
           <ul className="list-group">
             {
